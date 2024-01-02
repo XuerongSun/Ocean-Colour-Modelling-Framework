@@ -1,4 +1,4 @@
-# OCMF
+# OCMF (Ocean Colour Modelling Framework)
 This jupyter program is used to illustrate the Ocean Colour Modelling Framework (OCMF) proposed in Sun, Brewin et al. (submitted) for estimating remote sensing reflectance ( 𝑅𝑟𝑠
  ) from chlorophyll-a concentration (Chl-a) and sea surface temperature (SST).
 
