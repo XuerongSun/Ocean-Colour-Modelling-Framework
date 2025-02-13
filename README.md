@@ -1,5 +1,5 @@
 # OCMF (Ocean Colour Modelling Framework)
-This program is used to illustrate the Ocean Colour Modelling Framework (OCMF) proposed in Sun, Brewin et al. (under revision) for estimating remote sensing reflectance (Rrs) from chlorophyll-a concentration (Chl-a) and sea surface temperature (SST), building on the classical Case-1 assumption.
+This program is used to illustrate the Ocean Colour Modelling Framework (OCMF) proposed in Sun, Brewin et al. (2025, https://doi.org/10.1016/j.rse.2024.114487) for estimating remote sensing reflectance (Rrs) from chlorophyll-a concentration (Chl-a) and sea surface temperature (SST), building on the classical Case-1 assumption.
 
 OCMF assumes that each phytoplankton size group exists in a distinct optical environment, with specific inherent optical properties (IOPs) assigned to each group. These IOPs are influenced both directly by phytoplankton and indirectly by non-algal particles and dissolved substances. SST is also incorporated as a key factor affecting the composition of phytoplankton size classes (Sun et al., 2023, https://doi.org/10.1016/j.rse.2022.113415, https://github.com/XuerongSun/Three-component-models.git).
 
